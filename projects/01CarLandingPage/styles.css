@@ -1,0 +1,21 @@
+body {
+    background: url(test2.jpg) no-repeat center center fixed;
+    background-size:cover;
+}
+
+.hero{
+    color:#fff;
+    margin-top: 10%;
+    text-align: center;
+    font-size: 75px;
+    letter-spacing: -.05em;
+    line-height: 1.2em;
+    font-family: 'Revalia', cursive;
+}
+
+.ima{
+    margin: 1%;
+    height: 100px;
+    width: 200px;
+  
+}
